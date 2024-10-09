@@ -25,7 +25,7 @@ A dataset of 600 video sequences (300 violent and 300 non-violent) from 350 movi
 
 ### 2. Splitting Dataset into Train, Test & Validation Sets
 Once the data is collected it is split into **training**, **testing** & **validation** sets. This systematic splitting ensures balanced classes (violent and non-violent scenes) in each subset allowing for robust training and evaluation of the model.
-### 2. Data Preprocessing 
+### 3. Data Preprocessing 
 During preprocessing, several important steps are performed:
 
 - **Scene Cutting and Frame Selection**: Each video sequence is cut into specific scenes & **high-quality frames** are selected for processing.
@@ -35,17 +35,20 @@ During preprocessing, several important steps are performed:
 - **Data Encoding**: Labels are encoded into a format suitable for model processing.
 - **Data Normalization**: Frame data is normalized to standardize input features & improving the efficiency of training.
 
-### 3. Feature Extraction 
-**InceptionV3** was used to extract key spatial features from the frames.
+### 4. Feature Extraction Using InceptionV3
+Using a **pre-trained InceptionV3 model** features are extracted from the preprocessed frames. These features capture the spatial details necessary for classifying scenes as violent or non-violent.
 
-### 4. Modeling 
-A combination of **CNN** & **LSTM** was used to capture both **spatial** and **temporal features** from the movie scenes.
+### 5. Model Training 
+With the extracted features the model is trained. A combination of **forward propagation**, **backward propagation** & **dropout techniques** is employed to optimize the model's performance.
 
-### 5. Training 
-The dataset was split into training, validation, and testing sets. The model was trained using forward and backward propagation, with dropout to prevent overfitting.
+### 6. Hyperparameter Tuning 
+The **hyperparameters** of the model are **fine-tuned** to enhance its accuracy and generalization. This process includes **optimizing parameters** like **learning rate**, **dropout rates** & **batch size**.
 
-### 6. Evaluation 
-The model was evaluated using metrics like **accuracy** & **loss** along with **ROC curves**.
+### 7. Classification
+Once the model is trained, it classifies new scenes into **'Violence'** or **'Non-Violence'** based on the visual content of the frames.
+
+### 8. Model Evaluation
+After classification, the model is **evaluated** using **testing** and **validation data**. Metrics like **accuracy**, **loss** & **ROC curves** are used to assess its performance.
 
 ### Workflow Diagram
 Below is the workflow diagram of the system, illustrating the complete process from data collection to scene classification:
