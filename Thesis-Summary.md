@@ -32,8 +32,11 @@ Movie scenes were manually edited & frames were extracted for classification. Th
 ### 4. Modeling 
 A combination of **CNN** & **LSTM** was used to capture both **spatial** and **temporal features** from the movie scenes.
 
-### Training 
+### 5. Training 
 The dataset was split into training, validation, and testing sets. The model was trained using forward and backward propagation, with dropout to prevent overfitting.
 
-### Evaluation 
+### 6. Evaluation 
 The model was evaluated using metrics like **accuracy** & **loss** along with **ROC curves**.
+
+### Workflow Diagram
+Below is the workflow diagram of the system, illustrating the complete process from data collection to scene classification:
