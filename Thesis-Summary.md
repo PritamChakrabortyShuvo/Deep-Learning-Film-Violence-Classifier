@@ -40,3 +40,6 @@ The model was evaluated using metrics like **accuracy** & **loss** along with **
 
 ### Workflow Diagram
 Below is the workflow diagram of the system, illustrating the complete process from data collection to scene classification:
+<div align="center">
+  <img src="Diagrams/Workflow.png" alt="Project Logo" width=100% height=30%/>
+</div>
