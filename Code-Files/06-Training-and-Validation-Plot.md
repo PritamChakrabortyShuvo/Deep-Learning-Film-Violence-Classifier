@@ -1,6 +1,3 @@
-import pickle
-import matplotlib.pyplot as plt
-
 with open('/content/drive/MyDrive/training_history_16_50.pkl', 'rb') as file:
     loaded_history = pickle.load(file)
 
