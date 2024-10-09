@@ -23,8 +23,17 @@ The workflow of this project is as follows:
 ### 1. Data Collection
 A dataset of 600 video sequences (300 violent and 300 non-violent) from 350 movies including Bollywood, Korean & Hollywood films was compiled. Each sequence was 2-5 seconds long with 5 manually selected frames.
 
-### 2. Preprocessing 
-Movie scenes were manually edited & frames were extracted for classification. These frames were then labeled as violent or non-violent & prepared for model training.
+### 2. Splitting Dataset into Train, Test & Validation Sets
+Once the data is collected it is split into **training**, **testing** & **validation** sets. This systematic splitting ensures balanced classes (violent and non-violent scenes) in each subset allowing for robust training and evaluation of the model.
+### 2. Data Preprocessing 
+During preprocessing, several important steps are performed:
+
+- **Scene Cutting and Frame Selection**: Each video sequence is cut into specific scenes & **high-quality frames** are selected for processing.
+- **Quality Control**: Ensuring that all frames meet quality standards for clear feature extraction.
+- **Loading and Resizing Frames**: Frames are loaded and resized to a **consistent resolution** suitable for feature extraction.
+- **Data Labeling**: Frames are labeled as **'Violence'** or **'Non-Violence'** according to their content.
+- **Data Encoding**: Labels are encoded into a format suitable for model processing.
+- **Data Normalization**: Frame data is normalized to standardize input features & improving the efficiency of training.
 
 ### 3. Feature Extraction 
 **InceptionV3** was used to extract key spatial features from the frames.
