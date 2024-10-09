@@ -9,10 +9,10 @@ Addressing the limitations of existing methods in violence detection, this syste
 
 ## Methodology:
 ### 1. Data Collection 
-We compiled a dataset of 600 video sequences (300 violent and 300 non-violent) from 350 movies, including Bollywood, Korean, and Hollywood films. Each sequence lasts 2-5 seconds, with 5 frames manually selected from each.
+We compiled a dataset of **600 video sequences**. 300 for violent & for 300 non-violent from **350 movies** including Bollywood, Korean & Hollywood films. Each sequence lasts **2-5 seconds** with **5 frames** manually selected from each.
 
 ### 2. Model Architecture
-The system uses a Convolutional Neural Network (CNN) feature extractor, specifically InceptionV3, combined with LSTM to capture both spatial and temporal features from movie frames.
+The system uses a **Convolutional Neural Network (CNN)** feature extractor, specifically **InceptionV3** combined with **LSTM** to capture both **spatial** & **temporal features** from movie frames.
 
 ### 3. Training and Evaluation
-The dataset was split into training, validation, and testing sets, maintaining class balance. The model was trained using forward and backward propagation, with regularization techniques like dropout to prevent overfitting.
+The dataset was split into **training**, **validation** & **testing sets** maintaining class balance. The model was trained using forward and backward propagation, with **regularization techniques** like **dropout** to **prevent overfitting**.
