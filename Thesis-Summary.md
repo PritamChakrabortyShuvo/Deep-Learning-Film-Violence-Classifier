@@ -7,7 +7,7 @@ The system classifies movie scenes as either violent or non-violent based on uni
 ### 2. Motivation 
 Addressing the limitations of existing methods in violence detection, this system provides a more practical & efficient solution for content filtering & classification in the context of movie scenes.
 
-## Methodology:
+## Methodology
 ### 1. Data Collection 
 We compiled a dataset of **600 video sequences**. 300 for violent & for 300 non-violent from **350 movies** including Bollywood, Korean & Hollywood films. Each sequence lasts **2-5 seconds** with **5 frames** manually selected from each.
 
@@ -16,3 +16,24 @@ The system uses a **Convolutional Neural Network (CNN)** feature extractor, spec
 
 ### 3. Training and Evaluation
 The dataset was split into **training**, **validation** & **testing sets** maintaining class balance. The model was trained using forward and backward propagation, with **regularization techniques** like **dropout** to **prevent overfitting**.
+
+## Workflow
+The workflow of this project is as follows:
+
+### 1. Data Collection
+A dataset of 600 video sequences (300 violent and 300 non-violent) from 350 movies including Bollywood, Korean & Hollywood films was compiled. Each sequence was 2-5 seconds long with 5 manually selected frames.
+
+### 2. Preprocessing 
+Movie scenes were manually edited & frames were extracted for classification. These frames were then labeled as violent or non-violent & prepared for model training.
+
+### 3. Feature Extraction 
+**InceptionV3** was used to extract key spatial features from the frames.
+
+### 4. Modeling 
+A combination of **CNN** & **LSTM** was used to capture both **spatial** and **temporal features** from the movie scenes.
+
+### Training 
+The dataset was split into training, validation, and testing sets. The model was trained using forward and backward propagation, with dropout to prevent overfitting.
+
+### Evaluation 
+The model was evaluated using metrics like **accuracy** & **loss** along with **ROC curves**.
