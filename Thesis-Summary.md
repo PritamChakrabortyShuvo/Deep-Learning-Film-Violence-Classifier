@@ -58,5 +58,5 @@ This model architecture combines **InceptionV3** for **feature extraction** with
 
 Below is the Model Architecture of the system.
 <div align="center">
-  <img src="Diagrams/Model-Architecture.png alt="Project Logo" width=100% height=30%/>
+  <img src="Diagrams/Model-Architecture.png" alt="Project Logo" width=100% height=30%/>
 </div>
