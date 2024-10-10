@@ -18,7 +18,10 @@ The system uses a **Convolutional Neural Network (CNN)** feature extractor, spec
 The dataset was split into **training**, **validation** & **testing sets** maintaining class balance. The model was trained using forward and backward propagation, with **regularization techniques** like **dropout** to **prevent overfitting**.
 
 ## Workflow
-The workflow of this project is as follows:
+Below is the workflow diagram of the system, illustrating the complete process from data collection to scene classification:
+<div align="center">
+  <img src="Diagrams/Workflow.png" alt="Project Logo" width=100% height=30%/>
+</div>
 
 ### 1. Data Collection
 A dataset of 600 video sequences (300 violent and 300 non-violent) from 350 movies including Bollywood, Korean & Hollywood films was compiled. Each sequence was 2-5 seconds long with 5 manually selected frames.
@@ -49,9 +52,3 @@ Once the model is trained, it classifies new scenes into **'Violence'** or **'No
 
 ### 8. Model Evaluation
 After classification, the model is **evaluated** using **testing** and **validation data**. Metrics like **accuracy**, **loss** & **ROC curves** are used to assess its performance.
-
-### Workflow Diagram
-Below is the workflow diagram of the system, illustrating the complete process from data collection to scene classification:
-<div align="center">
-  <img src="Diagrams/Workflow.png" alt="Project Logo" width=100% height=30%/>
-</div>
