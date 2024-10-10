@@ -60,3 +60,15 @@ Below is the Model Architecture of the system.
 <div align="center">
   <img src="Diagrams/Model-Architecture.png" alt="Project Logo" width=100% height=30%/>
 </div>
+
+Here is short description of Model Architecture 
+- **InceptionV3** as the **base model** for feature extraction.
+- **Time Distributed Layer** to handle frame sequences.
+- **Flatten Layer** to reduce dimensionality.
+- **Batch Normalization Layer** to stabilize and accelerate training.
+- **LSTM Layer** for temporal sequence learning.
+- **Dropout Layer** for regularization.
+- **Batch Normalization Layer** to maintain normalization.
+- **Dense Layer** for final feature representation.
+- **Batch Normalization Layer** for further stabilization.
+- **Output Layer** for scene classification.
