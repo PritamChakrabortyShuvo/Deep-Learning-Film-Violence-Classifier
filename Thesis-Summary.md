@@ -52,3 +52,11 @@ Once the model is trained, it classifies new scenes into **'Violence'** or **'No
 
 ### 8. Model Evaluation
 After classification, the model is **evaluated** using **testing** and **validation data**. Metrics like **accuracy**, **loss** & **ROC curves** are used to assess its performance.
+
+## Model Architecture
+This model architecture combines **InceptionV3** for **feature extraction** with **LSTM layers** for **temporal analysis** **culminating in a classification output**.
+
+Below is the Model Architecture of the system.
+<div align="center">
+  <img src="Diagrams/Model-Architecture.png alt="Project Logo" width=100% height=30%/>
+</div>
