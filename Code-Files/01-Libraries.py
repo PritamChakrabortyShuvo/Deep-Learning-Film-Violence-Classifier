@@ -28,3 +28,7 @@ import pickle
 from sklearn.metrics import classification_report, accuracy_score
 from tensorflow.keras.models import load_model
 from tensorflow.keras.utils import to_categorical
+# Libraries for Confusion Matrix
+import seaborn as sns
+from sklearn.metrics import confusion_matrix
+from sklearn.metrics import precision_recall_fscore_support
