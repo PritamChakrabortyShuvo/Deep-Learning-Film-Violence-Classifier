@@ -72,3 +72,8 @@ Here is short description of Model Architecture
 - **Dense Layer** for final feature representation.
 - **Batch Normalization Layer** for further stabilization.
 - **Output Layer** for scene classification.
+
+## Dataset Sample 
+The dataset includes scenes from 350 movies featuring **violent films** such as **Fight Club**, **The Night Comes for Us**, **Saw (1 to 7)** & Punisher etc. alongside **non-violent films** like **La La Land**, **The Lunchbox** & **Beauty and the Beast** etc. This diverse selection provides a balanced mix of action-packed and calm scenes for accurate classification.
+
+Below are a few sample images from the dataset used for the movie scene classification:
