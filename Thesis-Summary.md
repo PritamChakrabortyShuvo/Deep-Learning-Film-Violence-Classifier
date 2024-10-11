@@ -80,6 +80,6 @@ Below are a few sample images from the dataset used for the movie scene classifi
 ### Violence Sample 
 <div align="center">
   <img src="Diagrams/Violence_Sample01.jpg" alt="Project Logo" width=45% height=30%/>
-  <img src="Diagrams/Violence_Sample01.jpg" alt="Project Logo" width=45% height=30%/>
+  <img src="Diagrams/Violence_Sample02.jpg" alt="Project Logo" width=45% height=30%/>
 
 </div>
