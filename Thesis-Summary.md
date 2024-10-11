@@ -83,7 +83,7 @@ The dataset includes scenes from 350 movies featuring **violent films** such as 
 Below are a few sample images from the dataset used for the movie scene classification:
 ### Violence Scene Sample 
 <div align="center">
-  <img src="Diagrams/Violence_Sample01.jpg" alt="Project Logo" width=45% height=30%/>
+  <img src="Diagrams/Violence_Sample1.jpg" alt="Project Logo" width=45% height=30%/>
   <img src="Diagrams/Violence_Sample02.jpg" alt="Project Logo" width=45% height=30%/>
   <br>
   <em>Figure 03 : Violence Scenes</em>
