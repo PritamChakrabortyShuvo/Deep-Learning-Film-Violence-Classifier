@@ -87,8 +87,8 @@ Below are a few sample images from the dataset used for the movie scene classifi
 
 ### Non Violence Scene Sample 
 <div align="center">
-  <img src="Diagrams/NonVio_01.jpg" alt="Project Logo" width=45% height=30%/>
+  <img src="Diagrams/NonVio_1.jpg" alt="Project Logo" width=45% height=30%/>
   <img src="Diagrams/NonVio_02.jpg" alt="Project Logo" width=45% height=30%/>
   <br>
-  <em>Figure 2: Non Violence Scene</em>
+  <em>Figure 2: Non Violence Scenes</em>
 </div>
