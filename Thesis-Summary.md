@@ -122,3 +122,7 @@ The system has multiple real-world applications, such as:
 
  2. **Movie Recommendations :** Services like **Movie Lens** can use the system to recommend appropriate content for viewers based on their sensitivity to violent scenes.
 
+## Challenges
+ 1. **Data Collection:** Obtaining movies and scenes with violent content required extensive manual effort.
+
+ 2. **Motion Handling :** The system currently has limitations in handling fast-paced scenes with rapid movements.
