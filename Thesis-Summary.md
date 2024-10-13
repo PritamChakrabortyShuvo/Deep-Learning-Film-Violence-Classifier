@@ -126,3 +126,6 @@ The system has multiple real-world applications, such as:
  1. **Data Collection:** Obtaining movies and scenes with violent content required extensive manual effort.
 
  2. **Motion Handling :** The system currently has limitations in handling fast-paced scenes with rapid movements.
+
+## Contributions
+This project presents a novel approach to scene classification offering a unique blend of **CNN** & **LSTM** for movie scene analysis. It contributes toward making content viewing safer and more informed particularly for viewers sensitive to violent content.
