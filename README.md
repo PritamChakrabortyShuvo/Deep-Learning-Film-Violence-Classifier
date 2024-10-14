@@ -14,4 +14,9 @@ Click [02-Data-Processing.py](https://github.com/PritamChakrabortyShuvo/Deep-Lea
 ## 03-Load-Sequence.py
 Load the video sequences, turning scenes into frames.
 
-Click [02-Data-Processing.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/03-Load-Sequence.py) to checkout the file.
+Click [03-Load-Sequence.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/03-Load-Sequence.py) to checkout the file.
+
+## 04-Model-Define.py
+ Define the deep learning architecture using InceptionV3 and LSTM layers.
+
+Click [04-Model-Define.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/04-Model-Define.py) to checkout the file.
