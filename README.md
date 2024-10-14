@@ -10,3 +10,8 @@ Click [01-Libraries.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-
 Processes & cleans the dataset preparing it for further analysis.
 
 Click [02-Data-Processing.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/02-Data-Processing.py) to checkout the file.
+
+## 03-Load-Sequence.py
+Load the video sequences, turning scenes into frames.
+
+Click [02-Data-Processing.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/03-Load-Sequence.py) to checkout the file.
