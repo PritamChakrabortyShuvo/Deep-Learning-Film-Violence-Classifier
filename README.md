@@ -26,5 +26,7 @@ Save the trained model in the H5 format for later use.
 
 Click [05-Save-model-according-to-h5-format.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/05-Save-model-according-to-h5-format.py) to checkout the file.
 
+## 06-Import-saved-model.py
+Import the saved model for inference or further training.
 
-
+Click [06-Import-saved-model.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/06-Import-saved-model.py) to checkout the file.
