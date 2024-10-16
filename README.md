@@ -30,3 +30,14 @@ Click [05-Save-model-according-to-h5-format.py](https://github.com/PritamChakrab
 Import the saved model for inference or further training.
 
 Click [06-Import-saved-model.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/06-Import-saved-model.py) to checkout the file.
+
+
+## 07-Model-Training.py
+Trains the model on the dataset, optimizing for accuracy and performance.
+
+Click [07-Model-Training.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/07-Model-Training.py) to checkout the file.
+
+## 08-Training-and-Validation-Plot.py
+Plots training and validation accuracy/loss for visual analysis.
+
+Click [08-Training-and-Validation-Plot.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/08-Training-and-Validation-Plot.py) to checkout the file.
