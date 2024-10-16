@@ -31,13 +31,20 @@ Import the saved model for inference or further training.
 
 Click [06-Import-saved-model.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/06-Import-saved-model.py) to checkout the file.
 
-
 ## 07-Model-Training.py
 Trains the model on the dataset, optimizing for accuracy and performance.
 
 Click [07-Model-Training.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/07-Model-Training.py) to checkout the file.
-
 ## 08-Training-and-Validation-Plot.py
 Plots training and validation accuracy/loss for visual analysis.
 
 Click [08-Training-and-Validation-Plot.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/08-Training-and-Validation-Plot.py) to checkout the file.
+## 09-Accuracy-Final.py
+Computes and displays the final accuracy score of the model
+
+Click [09-Accuracy-Final.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/09-Accuracy-Final.py) to checkout the file.
+
+## 10-Confusion-Matrix.py
+Generates a confusion matrix to analyze the performance of predictions.
+
+Click [10-Confusion-Matrix.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/10-Confusion-Matrix.py) to checkout the file.
