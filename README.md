@@ -53,3 +53,7 @@ Click [10-Confusion-Matrix.py](https://github.com/PritamChakrabortyShuvo/Deep-Le
 Produces a detailed classification report with precision, recall & F1-score.
 
 Click [11-Classification-Report.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/11-Classification-Report.py) to checkout the file.
+
+## To Access the Datset
+
+For anyone interested in obtaining the dataset used in this project please feel free to contact me at **pritamchakrabortyshuvo@gmail.com**.
