@@ -48,3 +48,8 @@ Click [09-Accuracy-Final.py](https://github.com/PritamChakrabortyShuvo/Deep-Lear
 Generates a confusion matrix to analyze the performance of predictions.
 
 Click [10-Confusion-Matrix.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/10-Confusion-Matrix.py) to checkout the file.
+
+## 11-Classification-Report.py
+Produces a detailed classification report with precision, recall & F1-score.
+
+Click [11-Classification-Report.py](https://github.com/PritamChakrabortyShuvo/Deep-Learning-Film-Violence-Classifier/blob/main/Code-Files/11-Classification-Report.py) to checkout the file.
