@@ -20,7 +20,7 @@ The dataset was split into **training**, **validation** & **testing sets** maint
 ## Workflow
 Below is the workflow diagram of the system, illustrating the complete process from data collection to scene classification:
 <div align="center">
-  <img src="Diagrams/Workflow.png" alt="Project Logo" width=100% height=30%/>
+  <img src="Diagrams/Workflow.png" alt="Project Logo" width=100%>
   <br>
   <em>Figure 01 : Workflow</em>
 </div>
