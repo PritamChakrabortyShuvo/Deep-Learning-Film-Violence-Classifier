@@ -32,13 +32,9 @@ The dataset was split into **training**, **validation** & **testing sets** maint
 
 Below is the workflow diagram of the system, illustrating the complete process from data collection to scene classification:
 
-<div align="center">
-
 ![Project Logo](Diagrams/Workflow.png)
 <br>
 <em>Figure 01 : Workflow</em>
-
-</div>
 
 ### 1. Data Collection
 
@@ -85,13 +81,9 @@ This model architecture combines **InceptionV3** for **feature extraction** with
 
 Below is the Model Architecture of the system.
 
-<div align="center">
-
 ![Project Logo](Diagrams/Model-Architecture.png)
 <br>
 <em>Figure 02 : Model Architecture</em>
-
-</div>
 
 Here is short description of Model Architecture
 
