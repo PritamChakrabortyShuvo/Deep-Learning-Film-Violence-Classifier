@@ -33,10 +33,11 @@ The dataset was split into **training**, **validation** & **testing sets** maint
 Below is the workflow diagram of the system, illustrating the complete process from data collection to scene classification:
 
 <div align="center">
-  <img src="Diagrams/Workflow.png" alt="Project Logo" width=100% height=30%/>
-  <img src="Diagrams/Workflow.png" alt="Project Logo" width=100%>
-  <br>
-  <em>Figure 01 : Workflow</em>
+
+![Project Logo](Diagrams/Workflow.png)
+<br>
+<em>Figure 01 : Workflow</em>
+
 </div>
 
 ### 1. Data Collection
@@ -85,10 +86,11 @@ This model architecture combines **InceptionV3** for **feature extraction** with
 Below is the Model Architecture of the system.
 
 <div align="center">
-  <img src="Diagrams/Model-Architecture.png" alt="Project Logo" width=100% height=30%/>
-  <img src="Diagrams/Model-Architecture.png" alt="Project Logo" width=100%>
-  <br>
-  <em>Figure 02 : Model Architecture</em>
+
+![Project Logo](Diagrams/Model-Architecture.png)
+<br>
+<em>Figure 02 : Model Architecture</em>
+
 </div>
 
 Here is short description of Model Architecture
@@ -111,8 +113,6 @@ The dataset includes scenes from 350 movies featuring **violent films** such as 
 Below are a few sample images from the dataset used for the movie scene classification:
 
 ### Violence Scene Sample
-
-![Project Logo](Diagrams/Model-Architecture.png)
 
 <div align="center">
 
