@@ -34,7 +34,10 @@ Below is the workflow diagram of the system, illustrating the complete process f
 
 ![Project Logo](Diagrams/Workflow.png)
 <br>
-<em>Figure 01 : Workflow</em>
+
+<div align="center">
+  <em>Figure 01 : Workflow</em>
+</div>
 
 ### 1. Data Collection
 
