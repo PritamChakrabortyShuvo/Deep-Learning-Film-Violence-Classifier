@@ -112,6 +112,8 @@ Below are a few sample images from the dataset used for the movie scene classifi
 
 ### Violence Scene Sample
 
+![Project Logo](Diagrams/Model-Architecture.png)
+
 <div align="center">
 
   <img src="Diagrams/Violence_Sample1.jpg" alt="Project Logo" width=45% height=30%/>
